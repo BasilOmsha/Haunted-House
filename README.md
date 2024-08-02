@@ -1,6 +1,12 @@
 # Haunted-House
 A haunted house scene built withThree.js native geometries and Poly Haven's textures.
 
+## 👀 Sneak Peak
+
+https://haunted-house-one-ashen.vercel.app/ 🚀
+
+![641shots_so](https://github.com/BasilOmsha/Haunted-House/blob/main/static/HauntedHouse1.png)
+
 ## Run Project Locally
 
 Clone the project
