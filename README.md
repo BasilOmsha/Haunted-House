@@ -1,5 +1,5 @@
 # Haunted-House
-A haunted house scene built withThree.js native geometries and the textures.
+A haunted house scene built withThree.js native geometries and Poly Haven's textures.
 
 ## Run Project Locally
 
