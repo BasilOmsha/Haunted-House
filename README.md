@@ -9,7 +9,7 @@ Clone the project
   git clone https://github.com/BasilOmsha/Haunted-House.git
 ```
 
-Go to the project directory
+<!-- Go to the project directory -->
 
 ```bash
   cd Haunted-House
